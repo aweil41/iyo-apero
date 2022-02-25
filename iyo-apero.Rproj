@@ -10,8 +10,6 @@ NumSpacesForTab: 2
 Encoding: UTF-8
 
 RnwWeave: Sweave
-LaTeX: XeLaTeX
-
-AutoAppendNewline: Yes
+LaTeX: pdfLaTeX
 
 BuildType: Website
